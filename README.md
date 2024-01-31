@@ -36,3 +36,6 @@ Example configurations are available in
 
 Available configuration options are documented in the
 [sample-t5uid1.cfg](/config/sample-t5uid1.cfg) file.
+
+## Fork of Fork
+I forked this repo as the original is not in sync with the klipper repo
